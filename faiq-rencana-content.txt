@@ -4,6 +4,7 @@ RENCANA KONTEN FAIQ
   * ES6
   * FRAME WORK JAVASCRIPT
     ^ Vue
+    ^ Reach
 - STRUKTUR DATA DASAR
 - PHP FRAMEWORKS
     ^ Laravel
